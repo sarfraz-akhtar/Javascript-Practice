@@ -1,0 +1,10 @@
+foo();
+function foo() { console.log("foo will called");}
+
+// variable daclaration
+
+console.log(num); // undefined
+var num = 6;
+
+console.log(num); // error not defined
+num = 6;
