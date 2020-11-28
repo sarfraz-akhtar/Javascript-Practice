@@ -1,0 +1,3 @@
+ function foo() { console.log("function declaration");}
+ 
+  var foo = function () { console.log("function expresion");}
